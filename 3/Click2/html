@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="//code.jquery.com/jquery-git1.js"></script>
+  <meta charset="utf-8">
+  <title>Yuet Fu Tse</title>
+  
+</head>
+<body>
+  <a id="button" href="javascript:void(0)">Click</a>
+
+</body>
+</html>
