@@ -1,0 +1,23 @@
+header {
+  font-size: 25px;
+  text-align: center;
+  background-color: #ff943a;
+}
+
+td {
+  font-size: 40px;
+  padding: 10px;
+}
+
+div {
+  font-size: 40px;
+}
+
+#sbut {
+  background-color: #ff9234;
+  height: 40px;
+  width: 200px;
+  border: none;
+  font-size: 20px;
+  vertical-align: middle;
+}
