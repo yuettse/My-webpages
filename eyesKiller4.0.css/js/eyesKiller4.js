@@ -31,7 +31,7 @@ $(document).ready(function(){
     $('span1').html("Sup");
   }, 4500);
   setTimeout( function() {  
-    $('span1').html("Niggas");
+    $('span1').html("Fu");
   }, 5000);
   
   setTimeout( function() { 
